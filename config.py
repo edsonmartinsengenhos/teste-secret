@@ -1,0 +1,1 @@
+API_KEY = "AKIAIOSFODNN7EXAMPLE" # This is a sample key
